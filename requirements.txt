@@ -1,0 +1,3 @@
+# Code Morpher dependencies
+# All other functionality uses Python's standard library.
+rich>=13.0.0
